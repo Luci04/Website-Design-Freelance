@@ -1,11 +1,11 @@
 import React from "react";
 import "./Hero.css";
-import Compaies from "../Companies/Compaies";
-import Highlights from "../Highlights/Highlights";
-import ServicesGrid from "../ServicesGrid/ServicesGrid";
-import Whatweoffer from "../What-we-offer/What-we-offer";
-import InstagramPost from "../InstagramPost/InstagramPost";
-import Whatweoffer2 from "../What-we-offer 2/What-we-offer2";
+import Compaies from "../../components/Companies/Compaies";
+import Highlights from "../../components/Highlights/Highlights";
+import ServicesGrid from "../../components/ServicesGrid/ServicesGrid";
+import Whatweoffer from "../../components/What-we-offer/What-we-offer";
+import InstagramPost from "../../components/InstagramPost/InstagramPost";
+import Whatweoffer2 from "../../components/What-we-offer 2/What-we-offer2";
 
 const Hero = () => {
   return (

@@ -1,8 +1,8 @@
 import Header from "./components/Header/Header";
-import Hero from "./components/Hero/Hero";
+import Hero from "./Screens/Hero/Hero";
 import { Route, Routes, BrowserRouter as ReactRouter } from "react-router-dom";
-import Services from "./components/Services/Services";
-import ContactUs from "./components/ContactUs/ContactUs";
+import Services from "./Screens/Services/Services";
+import ContactUs from "./Screens/ContactUs/ContactUs";
 import Footer from "./components/Footer/Footer";
 
 function App() {
