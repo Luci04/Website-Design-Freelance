@@ -1,0 +1,94 @@
+.contact-wrapper {
+  margin: 0 auto;
+  max-width: 1200px;
+  height: 100%;
+}
+
+.contact-container {
+  display: grid;
+  align-items: center;
+  grid-template-columns: 1fr 1fr;
+}
+
+.contact-container .left-side,
+.contact-container .right-side {
+  height: 100%;
+}
+
+.contact-container .left-side h3 {
+  color: var(--primary);
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+  font-size: 46px;
+  line-height: 55px;
+}
+
+input:focus {
+  outline: var(--secondary) solid 1px;
+}
+
+.contact-container .left-side a {
+  display: block;
+  color: var(--secondary);
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.contact-container .left-side .text-content {
+  padding: 1rem 0;
+}
+
+.contact-container .left-side .text-content h4 {
+  font-weight: 700;
+  color: var(--primary);
+  font-size: 18px;
+  line-height: 28px;
+}
+
+.contact-container .right-side form {
+  display: grid;
+  gap: 2rem;
+  flex-direction: row;
+  width: 100%;
+}
+
+.contact-container .right-side form input {
+  width: 100%;
+  background-color: transparent;
+  border: 1px solid var(--secondary);
+  border-radius: 10px;
+  color: #080f70;
+  padding: 1rem 2rem 1rem 2rem;
+  font-size: 15px;
+  height: 50px;
+  margin-bottom: 6px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.contact-container .right-side form .subtext {
+  font-size: 10px;
+  color: #080f70;
+  opacity: 0.5;
+  margin-bottom: 1.5rem;
+  line-height: 24px;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.contact-container .right-side {
+  background-color: var(--light-brown);
+  padding: 3rem;
+
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+@media screen and (max-width: 991px) {
+  .contact-container {
+    gap: 2rem;
+    grid-template-columns: 1fr;
+  }
+}

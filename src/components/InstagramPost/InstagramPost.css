@@ -1,0 +1,17 @@
+.react-multiple-carousel__arrow--right {
+  right: 0;
+}
+
+.react-multiple-carousel__arrow--left {
+  left: 0;
+}
+
+.insta-post-image {
+  width: 97%;
+}
+
+@media screen and (max-width: 768px) {
+  .insta-post-image {
+    width: 100%;
+  }
+}
