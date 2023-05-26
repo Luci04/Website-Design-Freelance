@@ -20,7 +20,7 @@ const Highlights = () => {
         <div className="items">
           <div className="item text-center">
             <img
-              src="https://uploads-ssl.webflow.com/63f8fa8305db102b12d032ed/6414b6e5953b40913b807a96_reduce%20costs.webp"
+              src="https://images.squarespace-cdn.com/content/v1/63b73b714814130cd0439649/371bd684-c597-43d8-807c-511224fb9a40/FBR_Unit+F06.jpg?format=750w"
               alt="img"
               className="icon"
             />
@@ -32,7 +32,7 @@ const Highlights = () => {
           </div>
           <div className="item text-center">
             <img
-              src="https://uploads-ssl.webflow.com/63f8fa8305db102b12d032ed/6414b6e5953b40913b807a96_reduce%20costs.webp"
+              src="https://images.squarespace-cdn.com/content/v1/63b73b714814130cd0439649/925aaadc-89c8-48ea-9404-aafebfbfee7c/FBR_Unit+F26.jpg?format=750w"
               alt="img"
               className="icon"
             />
@@ -45,7 +45,7 @@ const Highlights = () => {
           </div>
           <div className="item text-center">
             <img
-              src="https://uploads-ssl.webflow.com/63f8fa8305db102b12d032ed/6414b6e5953b40913b807a96_reduce%20costs.webp"
+              src="https://images.squarespace-cdn.com/content/v1/63b73b714814130cd0439649/371bd684-c597-43d8-807c-511224fb9a40/FBR_Unit+F06.jpg?format=750w"
               alt="img"
               className="icon"
             />

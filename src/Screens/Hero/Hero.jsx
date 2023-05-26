@@ -7,6 +7,7 @@ import Whatweoffer from "../../components/What-we-offer/What-we-offer";
 import InstagramPost from "../../components/InstagramPost/InstagramPost";
 import Whatweoffer2 from "../../components/What-we-offer 2/What-we-offer2";
 
+
 const Hero = () => {
   return (
     <>
@@ -46,9 +47,9 @@ const Hero = () => {
       <Compaies />
       <Whatweoffer />
       <Highlights />
-      <InstagramPost />
       <Whatweoffer2 />
       <ServicesGrid />
+      <InstagramPost />
     </>
   );
 };

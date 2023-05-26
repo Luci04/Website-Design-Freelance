@@ -17,23 +17,9 @@ const Footer = () => {
           <div>
             <div>
               <a href="#" className="footer-link">
-                avinashukla@gmail.com
+                nishantgoel.nishant@gmail.com
               </a>
             </div>
-            <div>
-              <a href="mailto:careers.us@levadata.com" className="footer-link">
-                avinashukla@gmail.com
-              </a>
-            </div>
-            <div>
-              <a
-                href="mailto:careers.india@levadata.com"
-                className="footer-link"
-              >
-                avinashukla@gmail.com
-              </a>
-            </div>
-
             <div className="footer__socialbar">
               <a
                 href="https://www.linkedin.com/company/levadata-inc/"

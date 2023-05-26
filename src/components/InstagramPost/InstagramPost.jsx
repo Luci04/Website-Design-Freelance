@@ -54,22 +54,11 @@ function InstagramPost() {
           slidesToSlide={1}
           swipeable
         >
-          <img
-            className="insta-post-image"
-            src="https://images.unsplash.com/photo-1615874694520-474822394e73?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aG9tZSUyMGRlY29yfGVufDB8fDB8fHww&auto=format&fit=crop&w=300&q=60"
-          />
-          <img
-            className="insta-post-image"
-            src="https://images.unsplash.com/photo-1615874694520-474822394e73?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aG9tZSUyMGRlY29yfGVufDB8fDB8fHww&auto=format&fit=crop&w=300&q=60"
-          />
-          <img
-            className="insta-post-image"
-            src="https://images.unsplash.com/photo-1615874694520-474822394e73?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aG9tZSUyMGRlY29yfGVufDB8fDB8fHww&auto=format&fit=crop&w=300&q=60"
-          />
-          <img
-            className="insta-post-image"
-            src="https://images.unsplash.com/photo-1615874694520-474822394e73?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aG9tZSUyMGRlY29yfGVufDB8fDB8fHww&auto=format&fit=crop&w=300&q=60"
-          />
+          <iframe className="insta-post-image" src="https://www.instagram.com/p/CsWLWFCJQH5/embed/?cr=1&v=13&wp=540&rd=https%3A%2F%2Fwww.example.com&rp=%2F" height="550" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+          <iframe className="insta-post-image" src="https://www.instagram.com/p/CqcosJaLTnE/embed/?cr=1&v=13&wp=540&rd=https%3A%2F%2Fwww.example.com&rp=%2F" height="550" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+          <iframe className="insta-post-image" src="https://www.instagram.com/p/Cr5i7bMOhF6/embed/?cr=1&v=13&wp=540&rd=https%3A%2F%2Fwww.example.com&rp=%2F" height="550" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+          <iframe className="insta-post-image" src="https://www.instagram.com/p/CjNLfRnLgzo/embed/?cr=1&v=13&wp=540&rd=https%3A%2F%2Fwww.example.com&rp=%2F" height="550" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+
         </Carousel>
       </div>
     </div>

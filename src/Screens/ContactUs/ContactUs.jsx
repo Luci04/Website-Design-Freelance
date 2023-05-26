@@ -7,8 +7,7 @@ const ContactUs = () => {
       <div className="paddings contact-container">
         <div className="left-side">
           <h3>Contact Us</h3>
-          <a href="">avinashukla@gmail.com</a>
-          <a href="">avinashukla@gmail.com</a>
+          <a href="">nishantgoel.nishant@gmail.com</a>
           <div className="text-content">
             <h4>Google (Global Headquarters) </h4>
             Lorem ipsum, dolor Corporate Commons, <br />
